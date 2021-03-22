@@ -1,5 +1,14 @@
-# expo-react-react-native-monorepo-example
+# expo-react-react-native-monorepo-starter
 Starter Kit for Monorepo containing react and react native projects.
+
+## Requirements
+```
+yarn
+nodejs (version 12 and above)
+lerna
+react-native
+expo-cli
+```
 
 ## Installation
 ```
