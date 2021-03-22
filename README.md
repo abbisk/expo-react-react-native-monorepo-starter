@@ -3,7 +3,7 @@ Starter Kit for Monorepo containing react and react native projects.
 
 ## Installation
 ```
-git@github.com:habilelabs/expo-react-react-native-monorepo-example.git <project_folder>
+git@github.com/abbisk/react-monorepo.git <project_folder>
 cd <project_folder>
 yarn install
 ```
